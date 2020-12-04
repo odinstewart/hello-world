@@ -1,2 +1,2 @@
 # hello-world
-Learning Git Hub
+Learning Git Hub with my dogs snoring in the background.
